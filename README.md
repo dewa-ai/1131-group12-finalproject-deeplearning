@@ -6,4 +6,4 @@ Group members:
 林彥廷 113526003​  
 石柏楷 113527602​
 
-Kindly check Wiki tab to see the details documentation for this project.
+Kindly check the Wiki tab to see details documentation for this project.
