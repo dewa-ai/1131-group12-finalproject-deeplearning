@@ -1,4 +1,12 @@
 # Challenging the Role of Preprocessing in U-Net for Breast Cancer Segmentation​
+
+
+National Central University 國立中央大學  
+Introduction to Deep Learning (CE6146)  
+Instructor: 鍾佳儒  
+
+---
+
 ## Group 12 - Breast Cancer Semantic Segmentation Dataset​
 Group members:  
 林光榮 113522124​  
@@ -9,7 +17,7 @@ Group members:
 Kindly check the [Wiki tab](https://github.com/dewa-ai/1131-group12-finalproject-deeplearning/wiki) to see details documentation for this project.
 
 
-References:  
+## References:  
 
 [1] G. Aresta et al., "BACH: Grand challenge on breast cancer histology images," Medical Image Analysis, vol. 56, pp. 122–139, 2019, doi: 10.1016/j.media.2019.05.010.​  
 [2] Suganya, K., Sumathi, S., Karthikesh, K. et al. Performance Analysis of Various Filters for Denoising Breast Cancer Histopathology Images. Indian J Gynecol Oncolog 21, 81 (2023). https://doi.org/10.1007/s40944-023-00761-1​  
