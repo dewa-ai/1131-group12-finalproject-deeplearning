@@ -16,7 +16,8 @@ Group members:
 
 Kindly check the [Wiki tab](https://github.com/dewa-ai/1131-group12-finalproject-deeplearning/wiki) to see details documentation for this final project.
 
-Dataset: https://www.kaggle.com/datasets/whats2000/breast-cancer-semantic-segmentation-bcss
+Original Dataset: https://www.kaggle.com/datasets/whats2000/breast-cancer-semantic-segmentation-bcss
+Dataset processed: https://ncu365-my.sharepoint.com/personal/113522124_office365_ncu_edu_tw/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F113522124%5Foffice365%5Fncu%5Fedu%5Ftw%2FDocuments%2F113%20DL%20Final%20Project%20Dataset&ga=1
 
 ## References:  
 
